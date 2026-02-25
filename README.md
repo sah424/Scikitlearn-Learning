@@ -1,6 +1,6 @@
 # Scikitlearn-Learning
 
-Topicas I covered here
+Topics I covered here
 > Label Encoding
 > One Hot Coding
 > Binary Convertion (Categorical to Numerical)
